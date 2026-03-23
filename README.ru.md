@@ -63,6 +63,7 @@
 ## Приложения
 
 ### С открытым исходным кодом
+
 - [MockWails](https://github.com/tacheraSasi/mockwails) - Комплексное десктопное приложение для разработчиков, тестировщиков и API-дизайнеров для эффективного создания и управления mock HTTP-серверами.
 - [Transok](https://github.com/bent2685/transok-wails) - На основе Wails + React, инструмент для передачи файлов в локальной сети.
 - [Cantor](https://github.com/evercyan/cantor) - Личное приложение для хранения изображений на основе Wails + Vue + GitHub API.
@@ -135,6 +136,7 @@
 - [cattail](https://github.com/nerdyslacker/cattail) - Неофициальный клиент Tailscale/Headscale для Windows и Linux.
   - [Ya-GUI](https://github.com/d3uceY/Ya-GUI) – Современное настольное приложение для управления ярлыками командной строки и алиасами для [Ya CLI](https://github.com/d3uceY/Ya-CLI). Автор: [@d3uceY](https://github.com/d3uceY).
   - [Clipcat](https://github.com/d3uceY/Clipcat) – Креативный и стильный менеджер буфера обмена для Windows, созданный на Wails. Автоматически сохраняет всё, что вы копируете, с красивым бумажным интерфейсом и мощными функциями. Автор: [@d3uceY](https://github.com/d3uceY).
+  - [DBNova](https://dbnova.ruiransoft.com/) - Клиент баз данных для разработчиков (SQL/NoSQL) со встроенным TypeScript-конструктором запросов.
 
 ### С закрытым исходным кодом
 

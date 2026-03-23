@@ -63,6 +63,7 @@
 ## 应用
 
 ### 开源
+
 - [MockWails](https://github.com/tacheraSasi/mockwails) - 一款为开发者、测试者和API设计师高效创建和管理mock HTTP服务器的综合桌面应用。
 - [Transok](https://github.com/bent2685/transok-wails) - 基于 wails + react 实现的局域网文件传输工具
 - [Cantor](https://github.com/evercyan/cantor) - 基于 wails + vue + github-api 实现的个人图床。
@@ -144,6 +145,7 @@
 - [Krater](https://moonguard.dev/krater) - 一款轻量跨平台桌面应用，革新 Laravel 应用调试体验。
 - [Mchat](https://marcio199226.github.io/mchat-site/public/) - 匿名且跨平台的聊天应用，包含一些独特功能（[Webapp](https://mchat-web-client.vercel.app/#/home)）。
 - [Tuna Desktop](https://tuna.am/en/blog/tuna-desktop-first/) - 用于创建 HTTP/TCP 隧道的应用程序，可从互联网访问本地服务器（localhost）
+- [DBNova](https://dbnova.ruiransoft.com/) - 开发者更友好的 SQL / NoSQL 数据库工具，内置 TS 查询构建器。
 
 ## 教程
 
