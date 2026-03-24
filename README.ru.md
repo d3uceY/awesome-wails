@@ -63,6 +63,7 @@
 ## Приложения
 
 ### С открытым исходным кодом
+
 - [MockWails](https://github.com/tacheraSasi/mockwails) - Комплексное десктопное приложение для разработчиков, тестировщиков и API-дизайнеров для эффективного создания и управления mock HTTP-серверами.
 - [Transok](https://github.com/bent2685/transok-wails) - На основе Wails + React, инструмент для передачи файлов в локальной сети.
 - [Cantor](https://github.com/evercyan/cantor) - Личное приложение для хранения изображений на основе Wails + Vue + GitHub API.
@@ -143,6 +144,7 @@
 - [Krater](https://moonguard.dev/krater) - Легковесное кроссплатформенное десктопное приложение, которое революционизирует отладку приложений Laravel.
 - [Mchat](https://marcio199226.github.io/mchat-site/public/) - Анонимный мультиплатформенный чат с некоторыми уникальными возможностями ([Webapp](https://mchat-web-client.vercel.app/#/home)).
 - [Tuna Desktop](https://tuna.am/blog/tuna-desktop-first/) - Приложение для создания HTTP/TCP туннелей для доступа из интернета к localhost.
+- [DBNova](https://dbnova.ruiransoft.com/) - Клиент баз данных для разработчиков (SQL/NoSQL) со встроенным TypeScript-конструктором запросов.
 
 ## Учебные материалы
 
